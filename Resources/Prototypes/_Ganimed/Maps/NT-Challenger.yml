@@ -1,0 +1,11 @@
+- type: gameMap
+  id: NT-Challenger
+  mapName: NT-Challenger
+  mapPath: /Maps/_Ganimed/NT-Challenger.yml
+  minPlayers: 0
+  stations:
+    NT-Challenger:
+      stationProto: StandardStationArena
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: "NT-Challenger"
