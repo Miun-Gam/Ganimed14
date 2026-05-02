@@ -1,5 +1,5 @@
 - type: gameMap
-  id: NT-Challenger
+  id: NTChallenger
   mapName: NT-Challenger
   mapPath: /Maps/_Ganimed/NT-Challenger.yml
   minPlayers: 0
